@@ -45,13 +45,11 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/c/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="-" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubluskrin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anubluskrin" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubluskrin&show_icons=true&locale=en&theme=tokyonight" alt="anubluskrin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubluskrin&theme=tokyonight&" alt="anubluskrin" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubluskrin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anubluskrin" /></p>
 
 
 ![tekken](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHN1Z2tkbmhvZm5zMjUzbGUwY2lkNzV6Z3dhd2QzeGVndm15NHNvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ODka7DICz4Vw4C3MU/giphy.gif)
