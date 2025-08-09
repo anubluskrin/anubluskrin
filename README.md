@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm just an ordinary person, but I'm trying to learn and improve every day. I'm interested in programming and visual arts.
+### I'm just an ordinary person, but I'm trying to learn and improve every day. I'm interested in programming and visual arts.
+
 
 - 🌱 I’m currently learning After Effect, Psd, C++, Blender, Figma, Unity, etc.
 
