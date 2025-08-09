@@ -46,15 +46,15 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubluskrin&show_icons=true&locale=en&layout=compact" alt="anubluskrin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubluskrin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anubluskrin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubluskrin&show_icons=true&locale=en" alt="anubluskrin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubluskrin&show_icons=true&locale=en&theme=tokyonight" alt="anubluskrin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubluskrin&" alt="anubluskrin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubluskrin&theme=tokyonight&" alt="anubluskrin" /></p>
 
 
 
 ![tekken](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHN1Z2tkbmhvZm5zMjUzbGUwY2lkNzV6Z3dhd2QzeGVndm15NHNvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ODka7DICz4Vw4C3MU/giphy.gif)
 do you like or play Tekken 8 ?
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubluskrin" alt="anubluskrin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubluskrin&theme=tokyonight&" alt="anubluskrin" /></a> </p>
