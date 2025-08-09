@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/anoid35">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=anoid35&count=3&unique=false" alt="Spotify recently played"  />
   </a>
