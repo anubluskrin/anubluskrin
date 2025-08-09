@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello World!
+![anubluskrin](img/Frame%2039.png)
 
 <!--
 **anubluskrin/anubluskrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm just an ordinary person, but I'm trying to learn and improve every day. I'm interested in programming and visual arts.
+
+- 🌱 I’m currently learning After Effect, Psd, C++, Blender, Figma, Unity, etc.
+
+
+![tekken](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHN1Z2tkbmhvZm5zMjUzbGUwY2lkNzV6Z3dhd2QzeGVndm15NHNvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ODka7DICz4Vw4C3MU/giphy.gif)
+do you like/play Tekken?
