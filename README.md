@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **-**
 
-- 👨‍💻 All of my projects are available  **under construction**
+- 👨‍💻 All of my projects are **under construction**
 
 
 
