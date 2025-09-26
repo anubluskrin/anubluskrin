@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **making logo, product add, brand design**
 
-- 🤝 I’m looking for help with **-**
+- 🤝 I’m looking for help with **collaborate to make a rpg game or something game**
 
 - 👨‍💻 All of my projects are **under construction**
 
