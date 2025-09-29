@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 
 ![tekken](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHN1Z2tkbmhvZm5zMjUzbGUwY2lkNzV6Z3dhd2QzeGVndm15NHNvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ODka7DICz4Vw4C3MU/giphy.gif)
-do you like or play Tekken 8 ?
+
 
 ###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubluskrin&theme=tokyonight&" alt="anubluskrin" /></a> </p>
