@@ -1,5 +1,4 @@
 ## Hello World!
-![anubluskrin](img/img/Frame 39.png)
 
 <!--
 **anubluskrin/anubluskrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,18 +21,6 @@ Here are some ideas to get you started:
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=midnightblue&right_color=darkblue"  />
 </div>
 
-
-
-
-- 🔭 I’m currently working on **-**
-
-- 🌱 I’m currently learning **After Effects**
-
-- 👯 I’m looking to collaborate on **making logo, product add, brand design**
-
-- 🤝 I’m looking for help with **collaborate to make a rpg game or something game**
-
-- 👨‍💻 All of my projects are **under construction**
 
 
 
