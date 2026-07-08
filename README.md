@@ -1,5 +1,5 @@
 ## Hello World!
-![anubluskrin](img/Frame%2039.png)
+![anubluskrin](img/img/Frame 39.png)
 
 <!--
 **anubluskrin/anubluskrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
