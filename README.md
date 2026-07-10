@@ -63,6 +63,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
 ###
+
+<br>
+
+<div align="center">
+  <h3> DEVELOPER REPORTS </h3>
+  <img src="https://streak-stats.demolab.com?user=IvandryPage&theme=github-dark-blue&hide_border=true" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvandryPage&theme=github-dark" />
+  <br>
+  <img src="https://raw.githubusercontent.com/IvandryPage/IvandryPage/output/snake.svg" width="100%"/>
+</div>
 
