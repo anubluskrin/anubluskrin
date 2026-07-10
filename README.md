@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   <img scr="https://github.com/anubluskrin/anubluskrin/blob/main/img/Frame%2039.png"/>
 </div>
 
-<h3 align="center">I'm just an ordinary person, but I'm trying to learn and improve every day. I'm interested in programming and visual arts.</h3>
+![Alt text](img/Frame39.png)
+<h3 align="left">I'm just an ordinary person, but I'm trying to learn and improve every day. I'm interested in programming and visual arts.</h3>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=midnightblue&right_color=darkblue"  />
