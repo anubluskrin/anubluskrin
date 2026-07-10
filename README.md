@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img scr="https://github.com/anubluskrin/anubluskrin/blob/main/img/Frame%2039.png"/>
+<div align="center">
+  <img scr="https://github.com/anubluskrin/anubluskrin/blob/main/img/Frame%2039.png"/>
+</div>
+
 <h3 align="center">I'm just an ordinary person, but I'm trying to learn and improve every day. I'm interested in programming and visual arts.</h3>
 
 <div align="center">
