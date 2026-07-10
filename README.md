@@ -75,6 +75,5 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubluskrin&theme=github-dark" />
   <br>
-  <img src="https://raw.githubusercontent.com/Anubluskrin/Anubluskrin/output/snake.svg" width="100%"/>
 </div>
 
