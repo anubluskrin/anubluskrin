@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3> DEVELOPER REPORTS </h3>
-  <img src="https://streak-stats.demolab.com?user=Anubluskrin&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=anubluskrin&theme=github-dark-blue&hide_border=true" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubluskrin&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubluskrin&theme=github-dark" />
   <br>
 </div>
 
