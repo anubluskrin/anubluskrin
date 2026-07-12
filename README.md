@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img scr="https://github.com/anubluskrin/anubluskrin/blob/main/img/Frame%39.png"/>
+  <img scr="https://anasabdin.com/images/atlas/kiribati_ahiahiDone.gif"/>
 </div>
 
 <h3 align="left">I'm just an ordinary person, but I'm trying to learn and improve every day. I'm interested in programming and visual arts.</h3>
