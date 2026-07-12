@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 ![banner](https://raw.githubusercontent.com/anubluskrin/anubluskrin/main/img/img1.png)
 
-<p align="center"> Amateur Game Developer | Focused on Game Design, ML, and Creative Coding </p>
+<p align="center"> Amateur Game Developer | Focused on Game Design, ML, and Creative Coding </p>\
+
+##
 
 I develop games and interactive experiences, primarily using the **Unity Engine**. My work focuses on the intersection of gameplay mechanics, atmospheric design, and creative coding.
 
