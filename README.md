@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![huff](https://anasabdin.com/images/atlas/kiribati_ahiahiDone.gif)
+<p align="center">
+  <img src="https://anasabdin.com/images/atlas/kiribati_ahiahiDone.gif" height="640" alt="Banner">
+</p>
 
 <h3 align="left">I'm just an ordinary person, but I'm trying to learn and improve every day. I'm interested in programming and visual arts.</h3>
 
