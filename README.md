@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk4a2Iyc2hsZHB1anVzaHpzb3dsbGI0am1jZno2ejlkbDRicmoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HN7ATjAo8haccqYslW/giphy.gif" height="640" alt="Banner">
-</p>
 
-<h3 align="left">I'm just an ordinary person, but I'm trying to learn and improve every day. I'm interested in programming and visual arts.</h3>
+
+<p align="center"> Amateur Game Developer | Focused on Game Design, ML, and Creative Coding </p>
+
+I develop games and interactive experiences, primarily using the **Unity Engine**. My work focuses on the intersection of gameplay mechanics, atmospheric design, and creative coding.
+
+Beyond game dev, I explore **motion graphic, data science, app and web development.**
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=midnightblue&right_color=darkblue"  />
