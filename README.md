@@ -64,6 +64,12 @@ Beyond game dev, I explore **motion graphic, data science, app and web developme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
 <br>
+
+<div align="center>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="226bc5a2-d63e-4e22-87c7-0c34a3d03028" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
+
+<br>
 <div align="center">
   <a href="https://instagram.com/_nshory" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
