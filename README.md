@@ -65,7 +65,7 @@ Beyond game dev, I explore **motion graphic, data science, app and web developme
 </div>
 <br>
 
-<div align="center>
+<div align="center">
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="226bc5a2-d63e-4e22-87c7-0c34a3d03028" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
