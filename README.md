@@ -96,6 +96,6 @@ Beyond game dev, I explore **motion graphic, data science, app and web developme
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/anubluskrin/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
