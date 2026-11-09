@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 ![banner](https://i.giphy.com/GHKlVpc6ThFB9Zk41M.webp)
+</div>  
 
 <p align="center"> Amateur Game Developer | Focused on Game Design, ML, and Creative Coding </p>
 
