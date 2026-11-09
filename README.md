@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-![banner](https://i.giphy.com/GHKlVpc6ThFB9Zk41M.webp)
+  ![banner](https://i.giphy.com/GHKlVpc6ThFB9Zk41M.webp)
 </div>  
 
 <p align="center"> Amateur Game Developer | Focused on Game Design, ML, and Creative Coding </p>
